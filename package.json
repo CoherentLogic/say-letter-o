@@ -1,0 +1,23 @@
+{
+  "name": "say-letter-o",
+  "version": "0.0.1",
+  "description": "Say letter \"o\" on standard output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoherentLogic/say-letter-o.git"
+  },
+  "keywords": [
+    "micropackages",
+    "parody"
+  ],
+  "author": "jpw",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CoherentLogic/say-letter-o/issues"
+  },
+  "homepage": "https://github.com/CoherentLogic/say-letter-o#readme"
+}
